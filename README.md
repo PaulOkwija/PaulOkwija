@@ -1,6 +1,7 @@
-## Hi there 👋
-I am Paul O. Mugume
+
 ![alt text](./images/Paul-banner.png)
+## Hi there 👋
+### I am Paul O. Mugume
 # 💫 About me
 I am a Data Scientist, Researcher, and Engineer passionate about identifying and solving challenging real-world problems. My goal is to improve access to quality healthcare for low-resource areas in Africa using AI and ML.
 
