@@ -8,7 +8,7 @@ I am Paul O. Mugume
 I am a Data Scientist, Researcher, and Engineer passionate about identifying and solving challenging real-world problems. My goal is to improve access to quality healthcare for low-resource areas in Africa using AI and ML.
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,7 +19,7 @@ I am a Data Scientist, Researcher, and Engineer passionate about identifying and
 
 
 
-# Let's Connect :coffee:
+## Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/paul-mugume-8166a2161"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:okwijapaul@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
