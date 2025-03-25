@@ -1,8 +1,10 @@
 
 ![alt text](./images/Paul-banner.png)
-## Hi there 👋
-### I am Paul O. Mugume
-# 💫 About me
+
+# Hi there 👋
+## I am Paul O. Mugume
+
+## 💫 About me
 I am a Data Scientist, Researcher, and Engineer passionate about identifying and solving challenging real-world problems. My goal is to improve access to quality healthcare for low-resource areas in Africa using AI and ML.
 
 
@@ -17,9 +19,7 @@ I am a Data Scientist, Researcher, and Engineer passionate about identifying and
 
 
 
-
-
-### Let's Connect :coffee:
+# Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/paul-mugume-8166a2161"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:okwijapaul@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
