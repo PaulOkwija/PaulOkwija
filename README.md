@@ -18,7 +18,6 @@ I am a Data Scientist, Researcher, and Engineer passionate about identifying and
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## My Github Stats
-![](https://komarev.com/ghpvc/?username=PaulOkwija&theme=github_dark&style=flat)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulOkwija&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulOkwija&theme=github_dark)
 ![](https://github-profile-trophy.vercel.app/?username=PaulOkwija&theme=nord&row=1&column=6)
